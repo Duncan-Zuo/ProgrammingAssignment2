@@ -21,7 +21,6 @@ makeCacheMatrix <- function(x = matrix()) {
              setinverse = setinverse,
              getinverse = getinverse)
 }
-}
 
 
 ## The function cacheSolve calculates the inverse of the matrix of the one created with the above function. 
